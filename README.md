@@ -1,2 +1,2 @@
-# PWA_TO_NATIVE_ANDROID_APP
+# Publishing PWA as Native app in Google Play Store with FCM Notifications via TWA
 TBA
