@@ -1,4 +1,4 @@
-# Publishing PWA as Native app in Google Play Store with FCM Notifications via TWA
+# Publishing PWA as Native app on Google Play Store with FCM Notifications via TWA
 Repo Contains Android Code and the Cloud Functions Code.
 
 Sample Converted App
