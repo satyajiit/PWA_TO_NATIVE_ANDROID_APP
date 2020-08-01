@@ -5,9 +5,7 @@ Sample Converted App
 
 [![playstore](https://raw.githubusercontent.com/satyajiit/CardsX/master/Screenshots/playstore.png)](https://play.google.com/store/apps/details?id=com.argonlabs.satyajit)
 
-Read Medium Article at
-
-https://medium.com/argonlabs/publishing-pwa-as-native-app-on-google-play-store-with-fcm-notifications-via-twa-eeeb49485100
+Read Medium Article at: https://bit.ly/PWA_Android
 
 <p float="center"> 
   <img src="https://drive.google.com/uc?export=view&id=1iVL94aIb849BPufN5En1Rnaii8y0XH0a" height="400" />
